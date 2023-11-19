@@ -12,6 +12,7 @@ def subtract(num1, num2):
 # Function to multiply two numbers
 def multiply(num1, num2):
 	return num1 * num2
+	wan
 
 # Function to divide two numbers
 def divide(num1, num2):
