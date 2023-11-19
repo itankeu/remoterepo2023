@@ -43,6 +43,7 @@ elif select == 3:
 
 elif select == 4:
 	print(number_1, "/", number_2, "=",
+	      csa
 					divide(number_1, number_2))
 else:
 	print("Invalid input")
